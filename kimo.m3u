@@ -1,0 +1,928 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Cocuk
+http://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Cocuk
+http://tv-trtcocuk.live.trt.com.tr/master_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Cocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - ICEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - VIZYON 58
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - CAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TURKUVAZ WESTERN
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - MiSKET TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TURKUVAZ INFO
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8711
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/54651
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT 4K TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/667815
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - ATV FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6915
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - ATV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8660
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - ATV Avrupa TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6914
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Show TV FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8656
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Show TV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8071
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Show Max TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8644
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal D HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8671
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Euro D TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8067
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Star TV FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/12834
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Star TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8072
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV 8 HD  TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/678141
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV 8 Int. TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8017
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV 8.5 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/12826
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal 7 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/12833
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal 7 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6867
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal 7 Avrupa TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6866
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Beyaz TV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6903
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Beyaz TV FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/625953
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - A2 TV FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6920
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Teve2 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8651
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - 360 TV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8019
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Dmax HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8727
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TLC HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/13227
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Haber TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8664
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - A Haber FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8730
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - A Haber TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6919
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - NTV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8069
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - NTV Haber FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/12827
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - CNN Turk FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/12825
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - CNN Turk HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6894
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Haber Turk FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8659
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Haber Turk HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6872
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Halk TV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6871
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Global Haber TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/656380
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - KRT HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/647436
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV100 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8646
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Ulusal Kanal TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8009
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TGRT Haber FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8066
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Bloomberg HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6900
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal 24 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6869
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV Net TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8013
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - A News HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627060
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports Haber HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/623058
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Bein Sport Haber TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/12836
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 1 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/681951
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6908
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 1 [Yedek] HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/13232
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/623692
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 2 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6907
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 2 [Yedek] HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/13231
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 3 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6906
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 3 (Yedek) HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8740
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 4 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6905
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 4 [Yedek] HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/13874
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports Max 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/16006
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports Max 2 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/16005
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibu Sport 1 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8725
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibu Spor 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8736
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibu Sport 2 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8724
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibu Spor 2 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8735
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibu Sport 3 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8723
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Smart Spor HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8739
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Smart Spor [Yedek] TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8738
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Sports TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8737
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Eurosport 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6879
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Spor HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/3482
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Spor 2 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/687399
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - A Spor HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8726
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - A Spor TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6918
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - GS TV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6873
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Galatasaray TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8684
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - FB TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6883
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Fenerbahce TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8683
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Sports TV  TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8668
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TJK TV FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8650
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - NBA TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/626988
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Cocuk FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/12828
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Cocuk HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/3475
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Disney Junior TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6889
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Disney JR TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8709
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Disney Channel TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6892
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Cartoon Network TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6897
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Nick Jr TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6923
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Nickelodeon TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6843
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Minika Cocuk TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6857
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Boomerang HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/647437
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Minika Go TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6858
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Belgesel HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/678140
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Gurme HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/678454
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - BBC Earth HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6902
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - History Channel FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6870
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Da Vinci Learning HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8643
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Da Vinci Learning TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6893
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Discovery ID TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6891
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Nat Geo Wild HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6844
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - National Geographic HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6846
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Yaban TV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8004
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kral Pop TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6862
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kral TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6863
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Power Turk HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8065
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Dream Turk TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6886
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - NR1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/626989
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - NR1 Turk TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8070
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - bein Movies Stars HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8707
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Nostalji Turk 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10461
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SL Sinema Komedi TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10480
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Box Office 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/14976
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Box Office 1 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6912
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Box Office 2 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6911
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Box Office 3 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6910
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Movies Action FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8688
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Digimax TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8640
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Salon 2 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8703
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Film Box Gold FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6850
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Film Box Family HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8639
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Fox Crime FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6876
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Magic Box Animasyon TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8654
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Loca 1 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6861
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Loca 2 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8662
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Loca 3 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6860
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Loca 3 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8661
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 2 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636489
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 3 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636488
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 4 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10464
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 5 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636487
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 6 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636486
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 7 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636485
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 8 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636484
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 9 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636483
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 10 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636482
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 11 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636481
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 12 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636480
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 13 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636479
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 14 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636478
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 15 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636477
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 16 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636476
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 17 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636475
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Multivizyon 18 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636474
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Sinema 2 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8697
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - FilmBox Adrenalin HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636504
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - FilmBox Bilim Kurgu HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636499
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Filmbox Fantastik HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636496
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Sine Viziyon TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8673
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Sinema TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10468
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Sinema TV Aile HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10469
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Sinema TV Aksiyon TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10470
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon Turk 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636436
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon Turk 2 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636435
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon Turk 3 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636434
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon Turk 4 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636433
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10519
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 2 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10518
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 3 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10517
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 4 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10516
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 5 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10515
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 6 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10514
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 7 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10513
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 9 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636438
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon 39 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/10481
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon CMYLMZ TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636437
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon Nostalji 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636432
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - SineVizyon Nostalji 2 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636431
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoAnimasyon TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636413
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoWestern TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636414
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636422
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 2 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636421
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 3 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636420
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 4 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636419
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 5 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636418
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 6 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636417
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 7 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636416
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 8 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636415
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - EnoVizyon 15 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636408
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Captain Movies 2 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636426
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Captain Movies 3 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636425
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kurtlar Vadisi TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/636412
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV52 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/625624
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Lalegul TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/16004
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Semerkand TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8663
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - FX TV HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6874
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Avaz HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/3476
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Turk HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8717
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Yaban HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/3466
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Bengu Turk TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6904
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Cem TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/6896
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV EM TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8015
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TV Kayseri TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8014
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Ucankus TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8011
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Vatan TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8007
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Kurdi TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8714
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT World TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/8721
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - AS TV Bursa TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627030
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - BRT 1 TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627034
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - BRT 2 TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627033
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Cay TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627065
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Deha TV Denizli TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627050
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - DRT Denizli TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627051
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal 42 Konya TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627035
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal 68 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627017
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal Avrupa TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627023
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal B TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627053
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal T TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/626985
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kanal Urfa TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627012
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kardelen TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627024
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TGRT EU TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/627054
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Uzay Haber TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/626997
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Kemal Sunal HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/663533
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - ARTI 1 TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/667816
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Anadolu Dernek TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/679669
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Canli TV TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/685723
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Exxen Sport 1 FHD VIP TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/690734
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports Haber HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682950
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682946
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 2 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682947
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 3 VIP TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682948
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports 4 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682949
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports Max 1 HD VIP TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682953
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - beIN Sports Max 2 HD VIP TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682954
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Spor 1 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/683139
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - TRT Spor 2 FHD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/683140
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibuspor 2 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/678942
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibuspor 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5439
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Tivibuspor 3 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/682980
+#EXTINF:0 tvg-id="ext" group-title="Channels",ahlakid.com - Smart Sport 1 HD TR
+http://mytv.fun:8080/erbil22/fHXlwwRS/5446
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - AKS
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - ANT1
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/144.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - AS1
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - ATV Avrupa
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/155.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - ATV Avrupa
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/155.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Al Jazeera English
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/133.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Al Jazeera English
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/133.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Alj Balkan
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/138.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Alsat M
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1037?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Alsat-M
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Alsat-M
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/116.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - BBC
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/132.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - BBC
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/132.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - BBF
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/112.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - BBF
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/112.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Bbf
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1079?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Boomerang
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/151.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Boomerang
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/151.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - CNN
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/134.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - CNN
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/134.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Cartoon Netw
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/149.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Cartoon Netw
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/149.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Click TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/90.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Club TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/92.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - D Drama
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/157.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - D Drama
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - DAS ERSTE
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/173.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - DAS ERSTE
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/173.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Desire
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/7.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Deutsche Welle
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/39.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Drita TV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/163.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Drita TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/163.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Dukagjini Tv
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1075?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Elrodi
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/88.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - EuroStar
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/22.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Fashion TV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/150.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Fashion TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/150.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Fen Tv
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/12.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Folk Plus
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/87.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Jolly HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/75.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - KTV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - KTV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/136.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Kanali 7
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/81.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/106.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan Kosova
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/110.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan Kosova
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan Macedonia
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan Macedonia
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/109.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan Plus
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan Plus
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1023?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Klan Plus
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/107.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Koplik TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/89.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Kukesi TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/94.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - LUXE TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/53.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - La 7
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/147.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - La 7
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/147.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Living
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1069?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Living HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/56.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - MTV Kosova
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - MTV Kosova
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/168.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Mediaset Italia
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/51.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Muse
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/80.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Neser TV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/164.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Neser TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/164.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Ora HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/139.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Ora HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/139.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - PEACE TV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/166.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - PEACE TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/166.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RAI 2
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/148.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RAI 2
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/148.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTK
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTK
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/135.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTL 2
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/41.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH 1
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/174.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH 24
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/117.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH 24
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/117.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Femije
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Femije
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/129.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Film
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/122.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Gjirokastra
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/126.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Gjirokastra
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/126.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Korca
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/125.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Korca
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/125.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Kuvend
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/127.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Kuvend
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/127.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Muzike
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/128.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Muzike
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/128.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Plus
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Plus
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/121.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Shkolla
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/161.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Shkolla
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/161.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Shqip
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/123.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH Shqip
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/123.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH1 HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/118.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH1 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/118.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH2 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/119.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH2 HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/119.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH3 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/120.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTSH3 HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/120.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTV 21 Junior
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTV 21 Junior
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/55.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - RTV 21 Popullore
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Rai Due
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/104.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Rai Gulp
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/47.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Rai Tre
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/50.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Rai Uno
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/105.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Real Time
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/154.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Real Time
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/154.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Report TV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/165.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Report TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/165.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Rete 4
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/145.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Rete 4
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/145.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Rtv 21
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1063?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Russia Today
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/142.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Russia Today
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/142.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - SS1
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - SS3
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Scan Tv
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1065?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Shenja Tv
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/57.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Shenja Tv
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/57.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Smile
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/96.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Smile
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/96.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Smile
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1076?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Syri
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/86.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Syri
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/86.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TGCOM24
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/146.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TGCOM24
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/146.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TRT World
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/25.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TRT World
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/25.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TV Johaniter
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/162.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TV Johaniter
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tip TV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tip TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/77.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tip Tv
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1041?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tirana 1
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tirana 1
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/85.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Top Channel HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Top Channel HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Travel Report
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/52.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Travel Report
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/52.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Action
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/69.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Action
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/69.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Comedy
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/70.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Comedy
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/70.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Comedy
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1040?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Family
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Fantasy
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/72.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Fantasy
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/72.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring History
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring History
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/68.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring International
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/64.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring International
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1049?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring International
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/64.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Life
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/73.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Life
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/73.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Planet
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Planet
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/67.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Shqip
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/74.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Shqip
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1043?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Shqip
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/74.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Super
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/71.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Super
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1044?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Super
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/71.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Tring
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1042?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Tring
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring Tring
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/78.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring World
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/66.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring World
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tring World
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1045?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Turbo Channel
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/169.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Turbo Channel
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/169.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Tv Mitrovica
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1073?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Vizion Plus
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1026?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Vizion Plus HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Vizion Plus HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - ZDF
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/38.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - ZDF
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/38.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Zjarr TV
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/83.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - Zjarr TV
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/83.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:ahlakid.com&checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:ahlakid.com&checkedby:ahlakid.com
+#EXTINF:0 tvg-id="tv7" group-title="Undefined",TV7
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ahlakid.com - News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - Abc News
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - Abc News
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1052?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - Abc News
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/160.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - Euronews Albania
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - FaX NEWS
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/82.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - Klan News
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - News 24
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - News 24
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/159.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - News 24
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1036?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - ORA News
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/113.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - ORA News
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/113.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - Ora News
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1038?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - RaiNews 24
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/44.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="News",ahlakid.com - Top News
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1056?checkedby:ahlakid.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",ahlakid.com - Klan Music
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/108.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Music",ahlakid.com - Klan Music
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/108.ts?checkedby:ahlakid.com
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Kujtesa Sport 1
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1057?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Kujtesa Sport 3
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1059?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Kujtesa Sport 4
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1060?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - RTSH Sport
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - RTSH Sport
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/124.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Rai Sport
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/49.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TeleSport
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/54.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TeleSport
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/54.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 1 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 2 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 2 HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/62.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 3 HD
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/61.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 3 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport News
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport News
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/65.ts?checkedby:ahlakid.com
+
+#EXTINF:0 tvg-id="ext" group-title="Kids",ahlakid.com - Tring Kids
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Kids",ahlakid.com - Tring Kids
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/79.ts?checkedby:ahlakid.com
